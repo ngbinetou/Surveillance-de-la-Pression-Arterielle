@@ -1,0 +1,20 @@
+# Kafka
+kafka-python-ng
+
+# FHIR Resources
+fhir.resources==7.1.0
+
+# Data Generation
+faker==22.0.0
+
+# Elasticsearch
+elasticsearch==8.11.0
+
+# Machine Learning (use pre-built wheels)
+scikit-learn
+pandas
+numpy
+joblib
+
+# Utilities
+
